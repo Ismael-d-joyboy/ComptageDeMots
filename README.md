@@ -11,14 +11,14 @@ ComptageDeMots/
 │   └── Comptage.java
 ├── TestExercice3.txt
 └── README.md
-```
+
 
 
 ## ✅ Résultat attendu
 
-```
-Nombre total de mots : 12
-```
+
+Nombre total de mots : 109
+
 
 ## 👨‍💻 Auteur
 
