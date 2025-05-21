@@ -1,5 +1,5 @@
 
-# ComptageDeMots
+#  Exercice 3 Nombre de mots (A rendre)
 
 Ce projet Java permet de lire un fichier texte et de compter le nombre total de mots qu'il contient. Il s'agit d'un exercice du module Projet Informatique II.
 
